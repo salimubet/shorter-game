@@ -1,0 +1,3 @@
+All Textures, Music and Sounds are from the Game Development Tutorial on the XBox Live Indie Games web site and are licensed under the Microsoft Permissive License ( http://xbox.create.msdn.com/en-us/education/gamedevelopment ) (License file is located in the zip file at this location : http://xbox.create.msdn.com/downloads/?id=753&filename=Shooter_Project_Windows.zip )
+
+

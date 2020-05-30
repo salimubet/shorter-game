@@ -1,0 +1,1 @@
+To customize the game, follow the instructions on the CustomizeGameHere event sheet.
